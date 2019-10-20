@@ -1,0 +1,41 @@
+.home-navigation {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  @include for-tablet-and-up {
+    align-content: space-around;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 200px;
+
+    @include for-tablet-and-up {
+      margin: 1rem;
+    }
+
+    @include for-desktop-and-up {
+      width: 300px;
+    }
+
+    @include for-desktop-and-up {
+      font-size: 2rem;
+    }
+
+    img {
+      height: 200px;
+      width: 200px;
+      margin-bottom: 1rem;;
+
+      @include for-desktop-and-up {
+        height: 300px;
+        width: 300px;
+      }
+    }
+  }
+}

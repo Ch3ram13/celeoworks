@@ -2,8 +2,19 @@
 layout: base
 ---
 
-<main aria-label="Content">
-  <a href="{{ "/yesterday" | relative_url }}">Yesterday</a>
-  <a href="{{ "/today" | relative_url }}">Today</a>
-  <a href="{{ "/tomorrow" | relative_url }}">Tomorrow</a>
+<main class='home-page' aria-label="Content">
+  <nav class='home-navigation' aria-label="Site">
+    <a href="{{ "/yesterday" | relative_url }}">
+      Yesterday
+      <img src='/assets/img/desert-sunset.jpeg' alt="Desert sunset">
+    </a>
+    <a href="{{ "/today" | relative_url }}">
+      Today
+      <img src='/assets/img/sunflower-field.jpeg' alt="Sunflowers in a field">
+    </a>
+    <a href="{{ "/tomorrow" | relative_url }}">
+      Tomorrow
+      <img src='/assets/img/desert-mountain-road.jpeg' alt="Desert mountain from the road">
+    </a>
+  </nav>
 </main>
