@@ -2,7 +2,7 @@
 layout: default
 ---
 <main aria-label="Content">
-  <div class="wrapper">
-    {{ content }}
-  </div>
+  <a href="{{ "/yesterday" | relative_url }}">Yesterday</a>
+  <a href="{{ "/today" | relative_url }}">Today</a>
+  <a href="{{ "/tomorrow" | relative_url }}">Tomorrow</a>
 </main>
