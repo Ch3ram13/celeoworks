@@ -1,23 +1,19 @@
 ---
 layout: default
 ---
-{%- include header.html -%}
-
-<main aria-label="Content">
+<article>
+  <header>
+    <h1>{{ page.title | escape }}</h1>
+  </header>
+    {{ content }}
+</article>
+{% for post in site.categories[page.category] %}
   <article>
-    <header>
-      <h1>{{ page.title | escape }}</h1>
-    </header>
-      {{ content }}
+    <h1>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+    {{ post.content | markdownify }}
   </article>
-  {% for post in site.categories[page.category] %}
-    <article>
-      <h1>
-        <a href="{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </h1>
-      {{ post.content | markdownify }}
-    </article>
-  {% endfor %}
-</main>
+{% endfor %}
