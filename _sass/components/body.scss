@@ -1,0 +1,66 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  @include for-desktop-and-up {
+    font-size: 20px;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: $background-grey;
+  color: $text-grey;
+  font-family: "Crimson Text", serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: $base-link-color;
+  cursor: pointer;
+  text-decoration: none;
+
+  &:visited {
+    color: $base-link-color;
+  }
+
+  &:hover,
+  &:active,
+  &:focus {
+    color: darken($base-link-color, 15);
+    text-decoration: underline;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @include ilios-heading;  
+}
+
+h1 {
+  font-size: 2.25rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-size: 1.25rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
