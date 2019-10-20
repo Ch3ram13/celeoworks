@@ -4,20 +4,22 @@ layout: base
 
 <main class='home-page' aria-label="Content">
   <header>
-    <h1>Works of C.E. Leo</h1>
+    <h1>
+        {{ site.title | escape }}
+    </h1>
   </header>
   <nav class='home-navigation' aria-label="Site">
     <a href="{{ "/yesterday" | relative_url }}">
       Yesterday
-      <img src='/assets/img/desert-sunset.jpeg' alt="Desert sunset">
+      <img src={{"/assets/img/desert-sunset.jpeg" | relative_url}} alt="Desert sunset">
     </a>
     <a href="{{ "/today" | relative_url }}">
       Today
-      <img src='/assets/img/sunflower-field.jpeg' alt="Sunflowers in a field">
+      <img src={{"/assets/img/sunflower-field.jpeg" | relative_url}} alt="Sunflowers in a field">
     </a>
     <a href="{{ "/tomorrow" | relative_url }}">
       Tomorrow
-      <img src='/assets/img/desert-mountain-road.jpeg' alt="Desert mountain from the road">
+      <img src={{"/assets/img/desert-mountain-road.jpeg" | relative_url}} alt="Desert mountain from the road">
     </a>
   </nav>
 </main>

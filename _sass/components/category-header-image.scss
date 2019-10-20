@@ -1,0 +1,14 @@
+.category-header-image {
+  text-align: center;
+  
+  img {
+    height: 500px;
+    width: 500px;
+    margin-bottom: 1rem;;
+
+    @include for-desktop-and-up {
+      height: 800px;
+      width: 800px;
+    }
+  }
+}
