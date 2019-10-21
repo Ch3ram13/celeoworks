@@ -1,0 +1,11 @@
+.category-post-list {
+  margin: 1rem auto;
+
+  @include for-tablet-and-up {
+    width: 700px;
+  }
+
+  @include for-desktop-and-up {
+    width: 1220px;
+  }
+}
