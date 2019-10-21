@@ -1,13 +1,14 @@
 ---
 layout: base
 ---
-
-<main class='home-page' aria-label="Content">
-  <header>
+<header class='site-header'>
     <h1>
+      <span>
         {{ site.title | escape }}
+      </span>
     </h1>
-  </header>
+</header>
+<main aria-label="Content">
   <nav class='home-navigation' aria-label="Site">
     <a href="{{ "/yesterday" | relative_url }}">
       Yesterday

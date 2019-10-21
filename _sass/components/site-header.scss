@@ -1,0 +1,24 @@
+.site-header {
+  background-color: #ffffff;
+  background-image: url('/assets/img/c-with-glasses.jpeg');
+  background-position: right -250px;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+
+  @include for-phone-only {
+    background-position: -260px -250px;
+  }
+
+  h1 {
+    color: $background-grey;
+    height: 100%;
+    width: 100%;
+
+    span {
+      @include for-smaller-than-laptop {
+        @include visually-hidden;
+      }
+    }
+  }
+}
