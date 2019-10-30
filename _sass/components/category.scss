@@ -1,4 +1,4 @@
-.category-post-list {
+.category {
   margin: 1rem auto;
 
   @include for-tablet-and-up {
@@ -8,4 +8,15 @@
   @include for-desktop-and-up {
     width: 1220px;
   }
+
+  header {
+    text-align: center;
+  }
+
+  img {
+    height: auto;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
 }

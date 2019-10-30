@@ -2,18 +2,16 @@
 layout: default
 ---
 
-<article class='category-content'>
-  <header>
-    <h1>{{ page.title | escape }}</h1>
-  </header>
-  {{ content }}
-</article>
-
-<div class='category-header-image'>
+<div class='category'>
+  <article>
+    <header>
+      <h1>{{ page.title | escape }}</h1>
+    </header>
+    {{ content }}
+  </article>
+  
   <img src={{ page.img | relative_url }} alt="{{ page.imgAlt }}">
-</div>
-
-<div class="category-post-list">
+  
   {% for post in site.categories[page.category] %}
     <article>
       <h1>
