@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dear Daydream"
-date:   2019-10-20 10:00:00 -0700
+date:   2019-07-17 21:01:00 -00
 categories: yesterday
 ---
 
@@ -23,3 +23,7 @@ But there was no gift.
 Breathless and Narniac and colorful. Bright shade cast through a stained glass window.  Sunlight or the memory of sunshine or the promise of sunshine, promises like fools' gold and rainbows.  Always dancing one step away, then gone.
 
 We all have our *mayas.*
+
+
+
+(Excerpt from QIL, written in Soldotna, Alaska in July of 2009)
