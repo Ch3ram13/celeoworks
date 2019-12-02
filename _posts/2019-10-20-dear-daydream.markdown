@@ -26,4 +26,4 @@ We all have our *mayas.*
 
 
 
-(Excerpt from QIL, written in Soldotna, Alaska in July of 2009)
+(Excerpt from my 2007-2010 blog *QIL*; written in Soldotna, Alaska in July of 2009)
