@@ -19,7 +19,12 @@ layout: default
           {{ post.title }}
         </a>
       </h1>
-      {{ post.excerpt }}
+
+    {% if post.excerpt == post.content %}
+      {{ post.content }}
+    {% else %}
+      {{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url }}">see more...</a>
+    {% endif %}
     </article>
   {% endfor %}
 </div>

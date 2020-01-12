@@ -9,7 +9,7 @@ categories: yesterday
 
 I think I am not barren. I am sure 
 I offered something – what?  Plump round things 
-all ripened in the sky. You never saw that. 
+all ripened in the sky. You never saw that. <!--more-->
 When we met, the sun was rising, and you
 in your pale sequins blended every shade, each
 rosy finger true. You saw me coming 
