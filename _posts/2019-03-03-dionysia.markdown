@@ -6,8 +6,8 @@ categories: yesterday
 ---
 
 
-We might have been high
-on sugar crystals, 
+We might have been high <b>
+on sugar crystals, <b>
 burning money like cigarettes,
 blending harmonies like
 playful spiders leap-
