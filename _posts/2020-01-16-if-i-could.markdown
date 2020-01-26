@@ -5,13 +5,10 @@ date:   2020-01-16 11:11:00 -00
 categories: yesterday
 ---
 
-C.E. Leo
-
-16, January, 1999
-
-Language Arts
-
-If I could ...essay
+C.E. Leo <br/>
+16, January, 1999 <br/>
+Language Arts <br/>
+If I could ...essay <br/> 
 
 If I could do anything, anything at all, <!--more--> I would teach myself to live in the now - in the present - and not worry about yesterday, about tomorrow, about next year. I wouldn't worry so much about whether falling in love is a good idea or not, about whether my friends really hate me, or about how much time has **elapsed** between boyfriends, friends, hugs, or kisses. I wouldn't put myself through the **grueling** pain of wondering if things would get better tomorrow, or if I was happier yesterday, or if I'm really going to live the life I want to, or just fade unnoticed into the **desolate** remains of mankind.
 
@@ -45,5 +42,3 @@ But if I could do anything, anything at all, it would be that. To live my life i
 
 
 (Written circa 1998, apparently in response to a Language Arts assignment that required me to use - and place in bold font - specific vocabulary words.)
-
-(*Note*: WTF, little 8th grade self? Good lord. Really?)
