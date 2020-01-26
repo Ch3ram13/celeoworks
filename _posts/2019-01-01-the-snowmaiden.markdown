@@ -9,7 +9,7 @@ Written in response to a grad school assignment for a class about American Folkl
 
 ![My helpful screenshot](/assets/58358647-28E4-4BAC-928F-0D13BC85FCDC.jpeg)
 
-[get the PDF](/assets/The_Snowmaiden[1].pdf) directly.
+[see more...](/assets/The_Snowmaiden[1].pdf).
 
 
 
