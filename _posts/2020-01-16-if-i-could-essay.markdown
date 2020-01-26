@@ -36,4 +36,4 @@ But if I could do anything, anything at all, it would be that. To live my life i
 *Love as if you've never been hurt, and dance as though no one's watching.*
 
 
-(Submitted on January 16th, 1999, apparently in response to an 8th grade Language Arts assignment that required me to use, and place in bold font, specific vocabulary words.)
+(Written on January 16th, 1999, apparently in response to an 8th grade Language Arts assignment that required me to use, and place in bold font, specific vocabulary words.)
