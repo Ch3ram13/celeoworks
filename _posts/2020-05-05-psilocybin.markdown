@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Sacred and Spiritual Facets of Psilocybin"
-date:   2019-05-05 11:11:00 -00
+date:   2020-02-02 11:11:00 -00
 categories: yesterday
 ---
 
