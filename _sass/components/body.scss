@@ -1,9 +1,9 @@
 html {
   box-sizing: border-box;
-  font-size: 16px;
+  font-size: 20px;
   line-height: $base-line-height;
   @include for-desktop-and-up {
-    font-size: 20px;
+    font-size: 24px;
   }
 }
 
