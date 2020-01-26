@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "If I Could ... Essay, January 16th 2020"
+title:  "If I Could ... Essay"
 date:   2020-01-16 11:11:00 -00
 categories: yesterday
 ---
