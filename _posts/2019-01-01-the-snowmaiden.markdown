@@ -6,7 +6,7 @@ categories: yesterday
 ---
 
 
-Insert "The Snowmaiden" PDF
+[get the PDF](/assets/The_Snowmaiden1.pdf) directly.
 
 
 (Written in response to a grad school assignment, circa 2011). 
