@@ -11,8 +11,6 @@ categories: yesterday
 
 
 *Angel's Goodnight*  
-
-
 Sunset, Sunset over the Shining Sea  
 Sunset, Sunset, saying goodnight to me <!--more-->  
 Sunsets glory, just around the bend  
