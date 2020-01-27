@@ -7,18 +7,18 @@ categories: yesterday
 
 *Written in response to a writing prompt in college circa 2004, this was an attempt to speak in the voice of a personified season of winter who has fallen in love with the season of autumn and so has written a poem about her.* 
 <br/>
-<br/>
+<br/> <pre>
 oh *god,* she falls to pieces <br/>
 around me <!--more--> 
 <br/>
 <br/>
->warm, 
+       warm, 
 <br/>
 <br/>
->>>prismatic 
+prismatic 
 <br/>
 <br/>
->>pieces.
+  pieces.
 <br/>
 <br/>
 <br/>      
