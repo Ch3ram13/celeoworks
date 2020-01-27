@@ -12,13 +12,13 @@ oh *god,* she falls to pieces <br/>
 around me <!--more--> 
 <br/>
 <br/>
-&nbsp warm, 
+&nbsp; warm, 
 <br/>
 <br/>
-&nbsp &nbsp prismatic 
+&nbsp; &nbsp; prismatic 
 <br/>
 <br/>
-&nbsp &nbsp &nbsp pieces.
+&nbsp; &nbsp; &nbsp; pieces.
 <br/>
 <br/>
 <br/>      
