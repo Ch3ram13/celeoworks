@@ -5,64 +5,62 @@ date:   2019-10-15 11:11:00 -00
 categories: yesterday
 ---
 
-*Written in response to a writing prompt in college circa 2004, this was an attempt to speak in the voice of a personified season of winter who has fallen in love with the season of autumn and so has written a poem about her.* <br/>
+*Written in response to a writing prompt in college circa 2004, this was an attempt to speak in the voice of a personified season of winter who has fallen in love with the season of autumn and so has written a poem about her.* 
 <br/>
 <br/>
 oh *god,* she falls to pieces <br/>
-around me <!--more--> <br/>
-
-
->>>>>warm, 
+around me <!--more--> 
 <br/>
 <br/>
->>>>>>>>>>>>>>>>>>>prismatic 
+>warm, 
 <br/>
 <br/>
->>>pieces.
-
-
-            
+>>>prismatic 
+<br/>
+<br/>
+>>pieces.
+<br/>
+<br/>
+<br/>      
 a fiery mosaic,
-
-
-
+<br/>
+<br/>
+<br/>
 >>shattered stained glass,
- 
-
-
->>>>>garnet
-
-
+<br/>
+<br/>
+<br/>
+>>>garnet
+<br/>
+<br/>
 petals
- 
- 
- 
- >>>>>>>kissing
- 
- 
- 
- 
- >>>>golden
- 
- 
- 
- flames,
- 
- 
- 
- 
- 
- >>>>>>still
- 
- 
- 
- >>>falling
- 
- 
- 
- 
- 
- Note: This poem has also been published in *Tuxedo Literary Magazine: Fall/Winter 2013*.
+<br/>
+<br/>
+<br/>
+>>>>>kissing
+<br/>
+<br/>
+<br/>
+<br/>
+>>>>golden
+<br/>
+<br/>
+<br/>
+>>>>flames,
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+>>still
+<br/>
+<br/>
+<br/>
+>>falling
+<br/>
+<br/>
+<br/>
+Note: This poem has also been published in *Tuxedo Literary Magazine: Fall/Winter 2013*.
 
 
 
