@@ -5,6 +5,9 @@ date:   2020-01-16 11:11:00 -00
 categories: yesterday
 ---
 
+*Written on January 16th, 1999, apparently in response to an 8th grade Language Arts assignment that required me to use, and place in bold font, specific vocabulary words.)* <br/>
+<br/>
+
 If I could do anything, anything at all,  I would teach myself to live in the now - in the present - and not worry about yesterday, about tomorrow, about next year. <!--more--> I wouldn't worry so much about whether falling in love is a good idea or not, about whether my friends really hate me, or about how much time has **elapsed** between boyfriends, friends, hugs, or kisses. I wouldn't put myself through the **grueling** pain of wondering if things would get better tomorrow, or if I was happier yesterday, or if I'm really going to live the life I want to, or just fade unnoticed into the **desolate** remains of mankind.
 
 I would remember that life is **precious**, and life *isn't* yesterday, or tomorrow, or next year, but it's now. This second...this moment... as I write this essay...
@@ -36,4 +39,3 @@ But if I could do anything, anything at all, it would be that. To live my life i
 *Love as if you've never been hurt, and dance as though no one's watching.*
 
 
-(Written on January 16th, 1999, apparently in response to an 8th grade Language Arts assignment that required me to use, and place in bold font, specific vocabulary words.)
