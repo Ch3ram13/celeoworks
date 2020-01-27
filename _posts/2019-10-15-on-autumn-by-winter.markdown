@@ -9,13 +9,13 @@ categories: yesterday
 <br/>
 <br/>
 oh *god,* she falls to pieces <br/>
-around me <!--more-->
+around me <!--more--> <br/>
 
 
 >>>>>warm, 
-</br>
 <br/>
->>prismatic 
+<br/>
+>>>>>>>>>>>>>>>>>>>prismatic 
 <br/>
 <br/>
 >>>pieces.
