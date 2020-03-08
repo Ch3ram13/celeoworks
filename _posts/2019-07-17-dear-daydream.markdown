@@ -17,6 +17,7 @@ But there was no lover.
 Stealing my breath like breath was a ribbon I'd swallowed and you slowly drew it out from between my teeth.
 <br/>
 <br/>
+<br/>
 But there was no gift. 
 <br/>
 <br/>
@@ -35,4 +36,4 @@ We all have our *mayas.*
 <br/>
 <br/>
 <br/>
-Excerpted from my 2007-2010 blog "QIL," this was written in Soldotna, Alaska in July of 2009, in the afterglow of the heights of a romance with a man whom I refer to, in various pieces of writing, as "Sean." 
+Excerpted from my 2007-2010 blog "QIL," this was written in Soldotna, Alaska in July of 2009, in the afterglow of the heights of a romance with a lover whom I refer to, in various pieces of writing, as "Sean LeAnne." 
