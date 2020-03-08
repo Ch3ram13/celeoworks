@@ -37,4 +37,4 @@ We all have our *mayas.*
 <br/>
 <br/>
 <br/>
-Excerpted from my 2007-2010 blog "QIL," this was written in Soldotna, Alaska in July of 2009, in the afterglow of the heights of a romance with a lover whom I refer to, in various pieces of writing, as "Sean LeAnne." 
+*Excerpted from my 2007-2010 blog "QIL," this was written in Soldotna, Alaska in July of 2009, in the afterglow of the heights of a romance with a lover whom I've refered to, in various pieces of writing, as "Sean LeAnne."* 
