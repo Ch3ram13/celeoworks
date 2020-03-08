@@ -11,4 +11,4 @@ Your first three months, I thought you were, like, a spy, or somebody who came t
 <br/>
 <br/>
 <br/>
-*Written in response to a creative non-fiction grad school prompt, circa 2014 
+*Written in response to a grad school prompt, circa 2014* 
