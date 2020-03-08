@@ -22,4 +22,4 @@ sing low, turn every light off, I sleep sound.<br/>
 <br/>
 <br/>
 <br/>
-*Written in response to a grad school prompt circa 2014...and framed by a private challenge I had assigned myself to write about topics that I believed, for whatever reason, I wasn't supposed to talk about -- in the case of this poem, my marriage. 
+*Written in response to a grad school prompt circa 2014...and framed by a private challenge I had assigned myself to write about topics that I believed, for whatever reason, I wasn't supposed to talk about -- in the case of this poem, the "taboo" topic was my marriage. 
