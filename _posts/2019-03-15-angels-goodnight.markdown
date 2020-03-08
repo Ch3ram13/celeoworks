@@ -7,9 +7,7 @@ categories: yesterday
 
 ![My helpful screenshot](/assets/F4492462-2D69-48E9-B096-89813F68429D.jpeg)
 
-<!--more--> 
-
-*Angel's Goodnight*  
+*Angel's Goodnight*  <!--more--> 
 Sunset, Sunset over the Shining Sea  
 Sunset, Sunset, saying goodnight to me  
 Sunsets glory, just around the bend  
