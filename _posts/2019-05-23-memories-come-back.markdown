@@ -32,4 +32,4 @@ Mosquito repellent in
 <br/>
 <br/>
 <br/>
-*Written in response to a grad school prompt, circa 2014, that asked us to create a poem using the title of a random newspaper article*
+*Written in response to a grad school prompt, circa 2014, that asked us to create a poem using the title of a random newspaper article.*
