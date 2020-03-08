@@ -5,9 +5,7 @@ date:   2019-01-01 11:11:00 -00
 categories: yesterday
 ---
 
-![My helpful screenshot](/assets/58358647-28E4-4BAC-928F-0D13BC85FCDC.jpeg)
-
-[see more...](/assets/The_Snowmaiden[1].pdf).
+*After the flood, the waters in the desert took a long time to recede.  During the worst of it the flood had filled not only the valley up to the top of the mountains, but it had also washed over the mountains at certain points, spilling into the other valleys, beyond.  Few, very few, valley dwellers survived.* [see more...](/assets/The_Snowmaiden[1].pdf).
 
 Written in response to a grad school assignment for a class about American Folklore, circa 2011. 
 
