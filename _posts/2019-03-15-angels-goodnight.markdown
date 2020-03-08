@@ -11,7 +11,7 @@ categories: yesterday
 <br/>
 Sunset, Sunset over the Shining Sea<br/>
 Sunset, Sunset, saying goodnight to me<br/>  
-Sunsets glory, just around the bend<br/>  
+Sunset's glory, just around the bend<br/>  
 Angel's voices, hidden by the wind.<br/>  
 The glorious background, given by the wings.<br/>  
 Whisper, whisper, the crickets begin to sing.<br/>  
