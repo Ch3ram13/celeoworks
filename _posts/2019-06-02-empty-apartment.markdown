@@ -4,7 +4,7 @@ title:  "Empty apartment"
 date:   2019-06-02 11:11:00 -00
 categories: yesterday
 ---
-
+<br/>
 I wake, dear husband, like a monk kneeling down.<br/>
 I wake quiet as a cloud.<!--more--><br/><br/>
 The earthquake stops. Why? That altar’s<br/>
