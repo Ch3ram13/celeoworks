@@ -9,7 +9,7 @@ categories: yesterday
 <br/>
 Mosquito repellent in
 <br/>
-&nbsp; &nbsp; &nbsp; &nbsp; a box, the birthing song<!--more-->
+&nbsp; &nbsp; &nbsp; &nbsp; a box, the birthing song
 <br/>
 <br/>
 <br/>
