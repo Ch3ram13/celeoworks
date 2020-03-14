@@ -5,7 +5,7 @@ date:   2019-10-15 11:11:00 -00
 categories: yesterday
 ---
 oh *god,* she falls to pieces <br/>
-around me <!--more--> 
+around me 
 <br/>
 <br/>
 &nbsp; warm, 
