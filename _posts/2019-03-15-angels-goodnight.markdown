@@ -8,8 +8,7 @@ categories: yesterday
 <br/>
 <br/>
 ![My helpful screenshot](/assets/F4492462-2D69-48E9-B096-89813F68429D.jpeg)
-
-Typed Version<!--more--> <br/>
+<br/>
 <br/>
 Sunset, Sunset over the Shining Sea<br/>
 Sunset, Sunset, saying goodnight to me<br/>
