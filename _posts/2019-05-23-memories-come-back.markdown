@@ -4,6 +4,8 @@ title:  "Memories Come Back in Waves"
 date:   2019-05-23 11:11:00 -00
 categories: yesterday
 ---
+*Written in response to a grad school prompt, circa 2014, that asked us to create a poem with the same title as a random newspaper article.*
+<br/>
 <br/>
 Mosquito repellent in
 <br/>
@@ -27,9 +29,4 @@ Mosquito repellent in
 <br/>
 <br/>
 &nbsp;&nbsp;air
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-*Written in response to a grad school prompt, circa 2014, that asked us to create a poem using the title of a random newspaper article.*
+
