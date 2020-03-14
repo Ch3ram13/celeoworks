@@ -4,7 +4,7 @@ title:  "Almost Spring"
 date:   2019-04-04 11:11:00 -00
 categories: yesterday
 ---
-*Written in San Rafael, CA circa April 2012*
+*Written in a library in San Rafael, CA circa April 2012*
 <br/>
 <br/>
 Today, Ella writes at the library. She finds herself a quiet window seat in a corner with a view of the gardens across the street. She feels a strange kind of restless. She crosses her legs and jiggles her angle quickly. It’s not easy to write, this warm afternoon.<!--more--> Good lord, the sun is shining outside. The trees immediately in her field of vision are thin and white, with tiny green leaves that seem to shiver delightedly in the wake of every breeze that wafts by. 
