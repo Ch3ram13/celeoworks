@@ -4,10 +4,14 @@ title:  "glimmers, glints, a piece of glass"
 date:   2019-09-05 23:59:00 -00
 categories: yesterday
 ---
-
-*For it’s a bitter thing to be a child.  There are so many clean new surfaces to scratch.*
-~John Steinbeck, *To a God Unknown*
-
+(Excerpt from my 2007-2010 blog *QIL*; written in Turlock, California in September of 2009)
+<br/>
+<br/>
+<p style="text-align: center;">
+  *For it’s a bitter thing to be a child.  There are so many clean new surfaces to scratch.*
+~John Steinbeck, *To a God Unknown*</p>
+<br/>
+<br/>
 I don’t remember much.  There’s so little I’ve left unburied and unburnt.  But, I remember, I thought the shopping mall in Palmdale was a castle.  I thought it was magical.  I had never ever seen a building bordered with so many thousands of tiny white lights before, and when the sun went down and the lights were lit, the whole place sparkled. 
 
 Enchanted Presence, my absolute favorite shop, of course sparkled too.   I couldn’t tell you anymore exactly what Enchanted Presence sold.  What comes to memory are hushed, twinkly things, velvet and crystal.  A lamp cast soft-rose colored glow, dimmed like candle-light.  Silvery, shivery piano music played softly in the background, like the tinkle of chandeliers from some secret ballroom hidden nearby. 
@@ -19,6 +23,6 @@ So I always was careful to be the perfect little girl.  I would wear my white v
 And I went to Enchanted Presence and listened to the quiet music and walked around and waited for the king to decide to make me a princess, to adopt me as his daughter, to come and take me away to the castle on the second story of the mall, away from it all forever and ever.
 
 And I don’t remember what it all was, that I wanted to be taken away from forever.  I just remember the Christmas lights.  The castle in the middle of the desert.  Velvet and crystal and quiet things lying around, half-hidden and sparkling.
-
-
-(Excerpt from my 2007-2010 blog *QIL*; written in Turlock, California in September of 2009)
+<br/>
+<br/>
+[For more QIL, click here]
