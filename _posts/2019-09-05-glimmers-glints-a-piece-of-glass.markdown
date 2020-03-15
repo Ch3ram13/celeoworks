@@ -4,11 +4,11 @@ title:  "glimmers, glints, a piece of glass"
 date:   2019-09-05 23:59:00 -00
 categories: yesterday
 ---
-*Excerpt from my 2007-2010 blog *QIL*; written in Turlock, California in September of 2009.*
+*Excerpt from my 2007-2010 blog QIL; written in Turlock, California in September of 2009.
 <br/>
 <br/>
 <p style="text-align: center;">
-  *For it’s a bitter thing to be a child.  There are so many clean new surfaces to scratch.*
+  For it’s a bitter thing to be a child.  There are so many clean new surfaces to scratch.*
 ~John Steinbeck, *To a God Unknown*</p>
 I don’t remember much.  There’s so little I’ve left unburied and unburnt.  But, I remember, I thought the shopping mall in Palmdale was a castle.  I thought it was magical.  I had never ever seen a building bordered with so many thousands of tiny white lights before, and when the sun went down and the lights were lit, the whole place sparkled. 
 
