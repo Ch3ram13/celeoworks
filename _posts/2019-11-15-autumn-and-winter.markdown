@@ -28,7 +28,7 @@ then I was on fire; next I’ll be you.<br/>
 <br/>                       
 &nbsp;&nbsp;&nbsp;&nbsp;*Winter*
 <br/>                      
-&nbsp;&nbsp;&nbsp;&nbsp;I don’t know what you want.
-&nbsp;&nbsp;&nbsp;&nbsp;I never asked for broken pieces.
-&nbsp;&nbsp;&nbsp;&nbsp;I only thought that you could help me capture
+&nbsp;&nbsp;&nbsp;&nbsp;I don’t know what you want.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;I never asked for broken pieces.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;I only thought that you could help me capture<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;so much fading light.
