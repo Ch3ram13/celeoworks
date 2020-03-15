@@ -6,7 +6,6 @@ categories: yesterday
 ---
 *Excerpt from my 2007-2010 blog *QIL*; written in Turlock, California in September of 2009.*
 <br/>
-<br/>
 <p style="text-align: center;">
   *For it’s a bitter thing to be a child.  There are so many clean new surfaces to scratch.*
 ~John Steinbeck, *To a God Unknown*</p>
