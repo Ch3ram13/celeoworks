@@ -8,15 +8,6 @@ categories: yesterday
 <br/>
 <br/>
 ![My helpful screenshot](/assets/F4492462-2D69-48E9-B096-89813F68429D.jpeg)
-<br/>
-<br/>
-Sunset, Sunset over the Shining Sea<br/>
-Sunset, Sunset, saying goodnight to me<br/>
-Sunset's glory, just around the bend<br/>
-Angel's voices, hidden by the wind.<br/>
-The glorious background, given by the wings.<br/>
-Whisper, whisper, the crickets begin to sing.<br/>
-Goodnight Angels, say goodnight to me.<br/>
-Sunset, Sunset, over the Shining Sea.<br/>  
+ 
 
 
