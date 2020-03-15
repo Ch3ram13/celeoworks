@@ -6,8 +6,8 @@ categories: yesterday
 ---
 *Excerpt from my 2007-2010 blog *QIL*; written in Turlock, California in October of 2009.*
 <p style="text-align: center;">
-  *That was a memorable day to me, for it made great changes in me.  But, it is the same with any life.  Imagine one selected day struck out of it, and think how different its course would have been.  Pause you who read this, and think for a moment of the long chain of iron or gold, of thorns or flowers, that would never have bound you, but for the formation of the first link on one memorable day.*
-~ Charles Dickens, *Great Expectations*</p>
+That was a memorable day to me, for it made great changes in me.  But, it is the same with any life.  Imagine one selected day struck out of it, and think how different its course would have been.  Pause you who read this, and think for a moment of the long chain of iron or gold, of thorns or flowers, that would never have bound you, but for the formation of the first link on one memorable day.
+~ Charles Dickens, Great Expectations</p>
 
 Picking  at splinters on the lawn one year ago beneath a bright October-blue sky -- I think when I'm eighty I'll still remember it for the inevitable chain of events, the unshakeable shift of energies and priorities and longings that immediately began to take place-- and I'll remember it fondly, I'm sure, and I hope with still  just a touch of sadness.  A distant minor chime.  
 
