@@ -4,7 +4,7 @@ title:  "In Fall What Falls Must Grow Back Up Again"
 date:   2019-10-08 22:59:00 -00
 categories: yesterday
 ---
-*Excerpt from my 2007-2010 blog QIL; written in Turlock, California in October of 2009.*
+*Excerpt from my 2007-2010 blog QIL; written in Turlock, California in October of 2009 when I was remembering falling in love with Sean LeeAnne.*
 <br/>
 ->*That was a memorable day to me, for it made great changes in me.  But, it is the same with any life.  Imagine one selected day struck out of it, and think how different its course would have been.  Pause you who read this, and think for a moment of the long chain of iron or gold, of thorns or flowers, that would never have bound you, but for the formation of the first link on one memorable day. ~ Charles Dickens, Great Expectations*<-
 
