@@ -7,8 +7,7 @@ categories: yesterday
 *Excerpt from my 2007-2010 blog QIL; written in Turlock, California in September of 2009.*
 <br/>
 <br/>
->*For it’s a bitter thing to be a child.  There are so many clean new surfaces to scratch.*
-><br/>~John Steinbeck, *To a God Unknown*
+>*For it’s a bitter thing to be a child.  There are so many clean new surfaces to scratch.* ~John Steinbeck, *To a God Unknown*
 
 <br/> I don’t remember much.  There’s so little I’ve left unburied and unburnt.  But, I remember, I thought the shopping mall in my desert hometown was a castle.  I thought it was magical.  I had never ever seen a building bordered with so many thousands of tiny white lights before, and when the sun went and the lights were lit, the whole place sparkled. 
 
