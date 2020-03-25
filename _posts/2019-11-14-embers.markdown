@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "embers"
+title:  "Embers"
 date:   2019-11-14 11:11:00 -00
 categories: yesterday
 ---
