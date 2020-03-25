@@ -9,6 +9,6 @@ categories: yesterday
 
 ![My helpful screenshot](assets/F4492462-2D69-48E9-B096-89813F68429D.jpeg)
 
-<!--more--><
+<!--more-->
 
 (Write the longer story here). 
