@@ -20,6 +20,3 @@ So I always was careful to be the perfect little girl.  I would wear my white v
 And I went to Enchanted Presence and listened to the quiet music and walked around and waited for the king to decide to make me a princess, to adopt me as his daughter, to come and take me away to the castle on the second story of the mall, away from it all forever and ever.
 
 And I don’t remember what it all was, that I wanted to be taken away from forever.  I just remember the Christmas lights.  The castle in the middle of the desert.  Velvet and crystal and quiet things lying around, half-hidden and sparkling.
-<br/>
-<br/>
-[For more QIL, click here]
