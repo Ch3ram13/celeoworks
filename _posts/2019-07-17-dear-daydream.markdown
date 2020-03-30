@@ -31,6 +31,3 @@ Breathless and Narniac and colorful. Bright shade cast through a stained glass w
 <br/>
 <br/>
 We all have our *mayas.*
-<br/>
-<br/>
-[For more QIL, click here] 
