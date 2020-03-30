@@ -15,6 +15,3 @@ I don't know if I told you, but after quitting the smoking and slowing the drink
 And suddenly I do see just how easy it is to be happy in real life -- how I'd almost have to force myself not to be.  Overall averaged-out happy.  And this sadness I do feel, it's not that old desperate struggle against an invisible enemy, that raging hopeless battle that felt like it would never end ever because there was nothing tangible to fight.  It's a deeper sadness, more ancient, one I'm more alert to, more reactive toward, a kind that brings my hands to my face and my knees to the ground, but that I know and understand and am proud to feel again.
 
 And the leaves are falling too and the magic of *Michelmass* swells and ebbs and I'm older, I've become graceful.  I'm stronger.  Yet I must admit that I am somehow a bit disoriented.  Autumn is almost always the season when I fall in love, and this year I've nowhere to go but out. 
-<br/>
-<br/>
-[For more QIL, click here]     
