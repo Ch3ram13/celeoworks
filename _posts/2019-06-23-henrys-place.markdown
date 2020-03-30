@@ -4,7 +4,7 @@ title:  "Henry's Place"
 date:   2019-06-23 17:28:00 -00
 categories: yesterday
 ---
-*An excerpt from my 2007-2010 blog [QIL](/assets/QIL.pdf), this was written in Soldotna, Alaska after a trip to Unalakleet in June of 2009. At the time, I thought I was going to become a folklorist...*
+*An excerpt from my 2007-2010 blog *[QIL]*(/assets/QIL.pdf), this was written in Soldotna, Alaska after a trip to Unalakleet in June of 2009. At the time, I thought I was going to become a folklorist...*
 <br/>
 <br/>
 Almost the first thing that happens when I walk in the front door is, Betty offers me sourdough pancakes and sausage. In the entryway, the skin of a beaver that her grandson hunted is stretched over and tacked to a board.  On the coat rack above it two hats are hanging, the sort of funny kind with the big ear flaps, that you've seen Abercrombie and Fitch try to imitate.  They're beautiful, really, shiny seal skin and some kind of sleek animal fur and Betty handmade them from the leftovers of other hunting trips.  It's hard to image that the beaver hide, stiff and rough like the back of a carpet, will wind up looking like one of these hats.  The sourdough starter, she made from scratch over thirty years ago.  
