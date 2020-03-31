@@ -5,7 +5,7 @@ date:   2019-08-01 11:11:00 -00
 categories: yesterday
 ---
 
-*This audio recording was published in the Spring/Summer 2010 edition of [Quiddity International Literary Journal](http://quidditylit.org/issue03-1/index.html)*
+*This audio recording was published in the Spring/Summer 2010 edition of [Quiddity International Literary Journal](http://quidditylit.org/issue03-1/index.html).*
 
 (Insert audio)
 
