@@ -5,6 +5,6 @@ date:   2020-02-12 11:11:00 -00
 categories: yesterday
 ---
 
-[Get the PDF](assets/Psilocybin copy.pdf)
+[Get the PDF](assets/Psilocybincopy.pdf)
 
 (Written for a graduate-level Philosophy & Psychology course I took as an undergraduate, circa 2007)
