@@ -5,6 +5,6 @@ date:   2020-02-02 11:11:00 -00
 categories: yesterday
 ---
 
-Link to Psiloycbin(1).pdf 
+Link to assets/Psilocybin copy.pdf
 
 (Written for a graduate-level Philosophy & Psychology course I took as an undergraduate, circa 2007)
