@@ -8,5 +8,5 @@ categories: yesterday
 
 [Insert image of page 1]
 
-[Download the PDF]
+[Download the PDF(assets/TheSnowmaiden.pdf)
 
