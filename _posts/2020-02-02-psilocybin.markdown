@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Sacred and Spiritual Facets of Psilocybin"
-date:   2020-02-02 11:11:00 -00
+title:  "The Sared and Spiritual Benefits of Psilocybin"
+date:   2020-02-12 11:11:00 -00
 categories: yesterday
 ---
 
