@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dear Daydream"
-date:   2019-07-17 21:01:00 -00
+date:   2021-07-17 21:01:00 -00
 categories: yesterday
 ---
 *Excerpted from my 2007-2010 blog [QIL](/assets/QIL.pdf), this was written in Soldotna, Alaska in July of 2009, in the afterglow of the heights of a romance with a lover whom I've referred to, in various pieces of writing, as "Sean LeAnne."* 
