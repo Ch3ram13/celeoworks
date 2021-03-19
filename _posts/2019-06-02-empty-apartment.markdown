@@ -4,7 +4,7 @@ title:  "Empty apartment"
 date:   2021-06-01 11:11:00 -00
 categories: yesterday
 ---
-*Written in response to a grad school prompt circa 2014...and framed by a private challenge that I had assigned myself to write about topics that I believed, for whatever reason, I wasn't supposed to talk about. The actual assignment, however, was to write 10 poems using the syntax and structure of other poets' works as templates for our own.* 
+*Written in response to a grad school prompt circa 2014...and framed by a private challenge that I had assigned myself to write about topics that I believed, for whatever reason, I wasn't supposed to talk about.* 
 <br/>
 <br/>
 I wake, dear husband, like a monk kneeling down.<br/>
