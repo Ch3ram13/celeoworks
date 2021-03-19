@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "In Fall What Falls Must Grow Back Up Again"
-date:   2019-10-08 22:59:00 -00
+date:   2021-10-08 22:59:00 -00
 categories: yesterday
 ---
 *Excerpt from my 2007-2010 blog [QIL](/assets/QIL.pdf); written in Turlock, California in October of 2009, while I was remembering the day I began to fall in love with Sean LeeAnne.*
