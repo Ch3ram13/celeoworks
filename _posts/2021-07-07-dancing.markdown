@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "dancing"
-date:   2019-07-07 11:11:00 -00
+date:   2021-07-07 11:11:00 -00
 categories: yesterday
 ---
 *Written in San Rafael, CA circa 2006. Many epic and hidden beach bonfire nights with friends preceded this poem.*
