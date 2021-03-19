@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "glimmers, glints, a piece of glass"
-date:   2019-09-05 23:59:00 -00
+date:   2021-09-01 23:59:00 -00
 categories: yesterday
 ---
 *Excerpt from my 2007-2010 blog [QIL](/assets/QIL.pdf); written in Turlock, California in September of 2009.*
