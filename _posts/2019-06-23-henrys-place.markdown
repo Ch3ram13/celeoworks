@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Henry's Place"
-date:   2019-06-23 17:28:00 -00
+date:   2021-06-01 17:28:00 -00
 categories: yesterday
 ---
 *An excerpt from my 2007-2010 blog [QIL](/assets/QIL.pdf), this was written in Soldotna, Alaska after a trip to Unalakleet in June of 2009. At the time, I thought I was going to become a folklorist...*
