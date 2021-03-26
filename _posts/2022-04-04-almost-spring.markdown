@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Almost Spring"
-date:   2021-04-04 11:11:00 -00
+date:   2022-04-04 11:11:00 -00
 categories: yesterday
 ---
 *Written in a library in San Rafael, CA circa April 2012*
