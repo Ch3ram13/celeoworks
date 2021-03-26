@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Choose Your Own 'Beautiful Wickedness'"
-date:   2019-10-31 11:11:00 -00
+date:   2021-10-31 11:11:00 -00
 categories: yesterday
 ---
 *Written in a library in Mill Valley, CA circa 2013.*
