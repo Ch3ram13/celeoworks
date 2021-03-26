@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Autumn and Winter"
-date:   2019-11-11 11:11:00 -00
+date:   2021-11-11 11:11:00 -00
 categories: yesterday
 ---
 *Again written in response to a writing prompt, this time in grad school circa 2014; I think of this poem as an extension of "on: autumn, by: winter"... only this time, the seasons are speaking to one another, and it is much later in the relationship.*
