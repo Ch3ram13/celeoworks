@@ -4,7 +4,7 @@ title:  "Future Projects"
 date:   2021-03-25 10:00:00 -0700
 categories: tomorrow
 ---
-
+<br/>
 - A blog called "It’s Not the Gravey, ‘Merica" depicting my adventures with loved ones and the creative works they produce during a Graveyard, Church, and Library tour of America.
 <br/>
 - A small band that performs at recovery centers, rehab facilities, jails, and prisons 
