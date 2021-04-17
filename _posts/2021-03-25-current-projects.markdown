@@ -9,6 +9,4 @@ categories: today
 <br/>
 <br/>
 -The Night - - - - , and Rain (super rough working title) retells the story of Romeo and Juliet amidst economic and racial tension in Central California during the height of the most recent drought.
-<br/>
-<br/>
--It’s Not the Gravey, ‘Merica depicts my adventures with loved ones and the creative works they produce during a Graveyard, Church, and Library tour of America.
+
