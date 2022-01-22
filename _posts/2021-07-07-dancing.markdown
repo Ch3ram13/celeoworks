@@ -4,9 +4,6 @@ title:  "dancing"
 date:   2021-07-07 11:11:00 -00
 categories: yesterday
 ---
-*Written in San Rafael, CA circa 2006. Many epic and hidden beach bonfire nights with friends preceded this poem.*
-<br/>
-<br/>
 a quiet pyromaniac<br/>
 she sits quite still, on edge<br/>
 at the fire<br/>
@@ -34,3 +31,5 @@ of fascination<br/>
 than she ever has<br/>
 or ever will<br/>
 from heat.<br/>
+
+*San Rafael, circa 2006.*
