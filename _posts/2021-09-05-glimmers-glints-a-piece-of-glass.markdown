@@ -4,9 +4,6 @@ title:  "glimmers, glints, a piece of glass"
 date:   2021-09-01 23:59:00 -00
 categories: yesterday
 ---
-*Excerpt from my 2007-2010 blog [QIL](/assets/QIL.pdf); written in Turlock, California in September of 2009.*
-<br/>
-<br/>
 >*For it’s a bitter thing to be a child.  There are so many clean new surfaces to scratch.* ~John Steinbeck, *To a God Unknown*
 
 I don’t remember much.  There’s so little I’ve left unburied and unburnt.  But, I remember, I thought the shopping mall in my desert hometown was a castle.  I thought it was magical.  I had never ever seen a building bordered with so many thousands of tiny white lights before, and when the sun went down and the lights were lit, the whole place sparkled. 
@@ -20,3 +17,8 @@ So I always was careful to be the perfect little girl.  I would wear my white v
 And I went to Enchanted Presence and listened to the quiet music and walked around and waited for the king to decide to make me a princess, to adopt me as his daughter, to come and take me away to the castle on the second story of the mall, away from it all forever and ever.
 
 And I don’t remember what it all was, that I wanted to be taken away from forever.  I just remember the Christmas lights.  The castle in the middle of the desert.  Velvet and crystal and quiet things lying around, half-hidden and sparkling.
+<br/>
+<br/>
+<br/>
+*From [QIL](/assets/QIL.pdf), Turlock, September 2009.*
+
