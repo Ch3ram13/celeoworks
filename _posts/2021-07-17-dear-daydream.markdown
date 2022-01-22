@@ -31,4 +31,4 @@ We all have our *mayas.*
 <br/>
 <br/>
 <br/>
-*From [QIL](/assets/QIL.pdf), Alaska, July 2009* 
+*From [QIL](/assets/QIL.pdf), Alaska, July 2009, 24 years old
