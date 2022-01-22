@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "Autumn and Winter"
-date:   2021-11-11 11:11:00 -00
+date:   2023-11-11 11:11:00 -00
 categories: yesterday
 ---
-*Again written in response to a writing prompt, this time in grad school circa 2014; I think of this poem as an extension of "on: autumn, by: winter"... only this time, the seasons are speaking to one another, and it is much later in the relationship.*
-<br/>
-<br/>
 *Autumn*
 <br/>
 I think I am not barren. I am sure<br/>
@@ -31,3 +28,8 @@ then I was on fire; next I’ll be you.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I never asked for broken pieces.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I only thought that you could help me capture<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so much fading light.
+<br/>
+<br/>
+<br/>
+*San Francisco, December 2014
+
