@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "glimmers, glints, a piece of glass"
-date:   2021-09-01 23:59:00 -00
+date:   2023-09-01 23:59:00 -00
 categories: yesterday
 ---
 >*For it’s a bitter thing to be a child.  There are so many clean new surfaces to scratch.* ~John Steinbeck, *To a God Unknown*
