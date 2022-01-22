@@ -31,5 +31,5 @@ then I was on fire; next I’ll be you.<br/>
 <br/>
 <br/>
 <br/>
-*San Francisco, December 2014, 31 years old
+*San Francisco, December 2014, 30 years old
 
