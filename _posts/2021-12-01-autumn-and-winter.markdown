@@ -31,5 +31,5 @@ then I was on fire; next I’ll be you.<br/>
 <br/>
 <br/>
 <br/>
-*San Francisco, December 2014*
+-San Francisco, December 2014
 
