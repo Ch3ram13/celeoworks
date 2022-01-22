@@ -12,5 +12,5 @@ Your fingerprints burn off even on your own skin and years later you'll be back 
 <br/>
 <br/>
 *San Rafael, 2007*<br/>
-*Audio recording with slight differences published in the Spring/Summer 2010 edition of [Quiddity International Literary Journal](http://quidditylit.org/issue03-1/index.html).*
+*Modified slightly from audio recording published in the Spring/Summer 2010 edition of [Quiddity International Literary Journal](http://quidditylit.org/issue03-1/index.html).*
 
