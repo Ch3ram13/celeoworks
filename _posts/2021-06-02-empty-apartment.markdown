@@ -17,4 +17,4 @@ I closed it and put it away.<br/>
 Amen. I speak when no one listens. I listen. I<br/>
 sing low, turn every light off, I sleep sound.<br/> 
 
-*Written in response to a grad school prompt circa 2014...and framed by a private challenge that I had assigned myself to write about topics that I believed, for whatever reason, I wasn't supposed to talk about.* 
+*2014 
