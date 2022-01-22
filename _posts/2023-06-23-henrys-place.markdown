@@ -17,8 +17,8 @@ Almost immediately, I realize that he's not going to tell me any of the kinds of
 I am, even as the darker clouds move in closer and the rain starts to drive into our faces more aggressively.  Thunder storms are rare in the village, but about two minutes after we anchor and cast the nets the clouds begin growling.  "I just saw lightning behind you," he says.
 
 Henry trains his eyes on a fixed point further away and sings me songs in his native tongue.  And I learn good things, like *Unalakleet* means two things, the South part of the river or where the East wind blows and *Ouyemick,* his own last name is "when you look out at the edge of the mountains, and it's a really hot day, and you see that sort of a haze that is Ouyemick."  
-   
-Every few minutes, in between summaries of village history and analyses of Bible stories, he'll say "C.E. Leo -- that is your name, C.E.?  C.E., I'm not doing too well with my fishing.  If you're cold, just tell me and I'll take you back."
+
+Every few minutes, in between summaries of village history and analyses of Bible stories, he'll say "Cheramie Johnson -- that is your name, Cheramie?  Cheramie, I'm not doing too well with my fishing.  If you're cold, just tell me and I'll take you back."
 
 And I am cold.  The rain slicker that Betty lent me was draped over my legs for awhile, but I eventually had to pull it up over my shoulders and my head so that my jeans are beginning to soak through.  The sleeves of my parka were already wet when I put the slicker over them and I can feel the damp against my wrists.  My hair is completely saturated, and rain is sliding off my face like I just pulled my head out of the water.  I am cold.
 
