@@ -8,5 +8,5 @@ categories: yesterday
 <br>
 <br>
 <br>
-*San Rafael, August 2018 (relearning piano after many years), 33 years old
+*San Rafael, August 2018, 33 years old
 
