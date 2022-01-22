@@ -18,5 +18,4 @@ Amen. I speak when no one listens. I listen. I<br/>
 sing low, turn every light off, I sleep sound.<br/> 
 <br/>
 <br/>
-<br/>
-*San Rafael, August 2014* 
+<br/>*San Rafael, August 2014* 
