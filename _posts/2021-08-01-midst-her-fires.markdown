@@ -8,8 +8,9 @@ Four miles past the four seasons resort you're blasting bat outta hell, pushing 
 <br/>
 <br/>
 Your fingerprints burn off even on your own skin and years later you'll be back there, staring at the spot where the girl that you think you once knew evaporated from
-
-
-*San Rafael, 2007
+<br/>
+<br/>
+<br/>
+*San Rafael, 2007*<br/>
 *Audio recording published in the Spring/Summer 2010 edition of [Quiddity International Literary Journal](http://quidditylit.org/issue03-1/index.html).*
 
