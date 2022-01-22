@@ -29,4 +29,4 @@ Breathless and Narniac and colorful. Bright shade cast through a stained glass w
 <br/>
 We all have our *mayas.*
 
-*From [QIL](/assets/QIL.pdf), July of 2009* 
+*From [QIL](/assets/QIL.pdf), Alaska, July 2009* 
